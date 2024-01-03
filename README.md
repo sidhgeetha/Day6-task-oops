@@ -1,4 +1,4 @@
-#Class - Movie#
+# Class - Movie #
 - Class created with the name of "Movie"
 - Created constructor and given properties named title, studio, rating.
 - Given default value for ratin as "PG" . This will taken when no rating is provided.
