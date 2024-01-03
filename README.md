@@ -10,7 +10,7 @@
 - and moved the movie list which has rating "PG" to new array named "result=[]".
 - Printed the movie names with the rating of "PG" in the console.
   
- # class -uber price # 
+ # Class -Uber price # 
 
  - Class created with name of "Uber" and that takes the parameter namely model, color, type, number to initialize the properties of class "Uber class".
  - The class has a method named distance,having parameters called starting and ending locations. To calculates the distance between the two points.
