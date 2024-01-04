@@ -10,6 +10,7 @@ class Uber {
     return distance;
   } //distacne,base price, demand price
   getPrice(distance, basePrice, costPerKilometer, demandPrice) {
+    
     let distanceForBasePrice = 2;
 
     let extrakMS = distance - distanceForBasePrice;
